@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Reddit Reader", "Reddit Reader\Reddit Reader.vbproj", "{125ECD79-5074-4905-B14D-5D85E02DF127}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{125ECD79-5074-4905-B14D-5D85E02DF127}.Debug|x86.ActiveCfg = Debug|x86
+		{125ECD79-5074-4905-B14D-5D85E02DF127}.Debug|x86.Build.0 = Debug|x86
+		{125ECD79-5074-4905-B14D-5D85E02DF127}.Release|x86.ActiveCfg = Release|x86
+		{125ECD79-5074-4905-B14D-5D85E02DF127}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+C:\Users\Owner\AppData\Local\Temporary Projects\First App\bin\Debug\First App.exe
+C:\Users\Owner\AppData\Local\Temporary Projects\First App\bin\Debug\First App.pdb
+C:\Users\Owner\AppData\Local\Temporary Projects\First App\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\AppData\Local\Temporary Projects\First App\obj\x86\Debug\First_App.Form1.resources
+C:\Users\Owner\AppData\Local\Temporary Projects\First App\obj\x86\Debug\First_App.Properties.Resources.resources
+C:\Users\Owner\AppData\Local\Temporary Projects\First App\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Owner\AppData\Local\Temporary Projects\First App\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Owner\AppData\Local\Temporary Projects\First App\obj\x86\Debug\First App.exe
+C:\Users\Owner\AppData\Local\Temporary Projects\First App\obj\x86\Debug\First App.pdb
+C:\Users\Owner\documents\visual studio 2010\Projects\First App\obj\x86\Debug\First App.exe
+C:\Users\Owner\documents\visual studio 2010\Projects\First App\obj\x86\Debug\First App.pdb
+C:\Users\Owner\documents\visual studio 2010\Projects\First App\obj\x86\Debug\First_App.Form1.resources
+C:\Users\Owner\documents\visual studio 2010\Projects\First App\obj\x86\Debug\First_App.Properties.Resources.resources
+C:\Users\Owner\documents\visual studio 2010\Projects\First App\obj\x86\Debug\First App.csproj.GenerateResource.Cache
+C:\Users\Owner\documents\visual studio 2010\Projects\First App\bin\Debug\First App.exe
+C:\Users\Owner\documents\visual studio 2010\Projects\First App\bin\Debug\First App.pdb
+C:\Users\Owner\documents\visual studio 2010\Projects\First App\obj\x86\Debug\First_App.Form2.resources

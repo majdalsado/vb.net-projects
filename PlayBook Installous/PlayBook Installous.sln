@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PlayBook Installous", "PlayBook Installous\PlayBook Installous.vbproj", "{75B85B68-A834-42D4-AD04-E002AE44359A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75B85B68-A834-42D4-AD04-E002AE44359A}.Debug|x86.ActiveCfg = Debug|x86
+		{75B85B68-A834-42D4-AD04-E002AE44359A}.Debug|x86.Build.0 = Debug|x86
+		{75B85B68-A834-42D4-AD04-E002AE44359A}.Release|x86.ActiveCfg = Release|x86
+		{75B85B68-A834-42D4-AD04-E002AE44359A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

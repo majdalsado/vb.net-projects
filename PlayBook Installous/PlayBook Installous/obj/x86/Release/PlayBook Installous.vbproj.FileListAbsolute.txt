@@ -1,0 +1,13 @@
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\PlayBook Installous\PlayBook Installous\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\PlayBook Installous\PlayBook Installous\obj\x86\Release\tk.playbookassister.PBInstallous.AboutBox1.resources
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\PlayBook Installous\PlayBook Installous\obj\x86\Release\tk.playbookassister.PBInstallous.Form1.resources
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\PlayBook Installous\PlayBook Installous\obj\x86\Release\tk.playbookassister.PBInstallous.Form2.resources
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\PlayBook Installous\PlayBook Installous\obj\x86\Release\tk.playbookassister.PBInstallous.Resources.resources
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\PlayBook Installous\PlayBook Installous\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\PlayBook Installous\PlayBook Installous\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\PlayBook Installous\PlayBook Installous\obj\x86\Release\PlayBook Installous.exe
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\PlayBook Installous\PlayBook Installous\obj\x86\Release\PlayBook Installous.xml
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\PlayBook Installous\PlayBook Installous\obj\x86\Release\PlayBook Installous.pdb
+C:\Users\Owner\documents\visual studio 2010\Projects\PlayBook Installous\PlayBook Installous\bin\Release\PlayBook Installous.exe
+C:\Users\Owner\documents\visual studio 2010\Projects\PlayBook Installous\PlayBook Installous\bin\Release\PlayBook Installous.pdb
+C:\Users\Owner\documents\visual studio 2010\Projects\PlayBook Installous\PlayBook Installous\bin\Release\PlayBook Installous.xml

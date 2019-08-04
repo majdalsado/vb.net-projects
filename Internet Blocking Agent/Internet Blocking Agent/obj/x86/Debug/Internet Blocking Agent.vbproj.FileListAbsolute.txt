@@ -1,0 +1,35 @@
+C:\Users\Owner\AppData\Local\Temporary Projects\Internet Blocking Agent\bin\Debug\Internet Blocking Agent.exe
+C:\Users\Owner\AppData\Local\Temporary Projects\Internet Blocking Agent\bin\Debug\Internet Blocking Agent.pdb
+C:\Users\Owner\AppData\Local\Temporary Projects\Internet Blocking Agent\bin\Debug\Internet Blocking Agent.xml
+C:\Users\Owner\AppData\Local\Temporary Projects\Internet Blocking Agent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\AppData\Local\Temporary Projects\Internet Blocking Agent\obj\x86\Debug\Internet_Blocking_Agent.About.resources
+C:\Users\Owner\AppData\Local\Temporary Projects\Internet Blocking Agent\obj\x86\Debug\Internet_Blocking_Agent.Form1.resources
+C:\Users\Owner\AppData\Local\Temporary Projects\Internet Blocking Agent\obj\x86\Debug\Internet_Blocking_Agent.Resources.resources
+C:\Users\Owner\AppData\Local\Temporary Projects\Internet Blocking Agent\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Owner\AppData\Local\Temporary Projects\Internet Blocking Agent\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Owner\AppData\Local\Temporary Projects\Internet Blocking Agent\obj\x86\Debug\Internet Blocking Agent.exe
+C:\Users\Owner\AppData\Local\Temporary Projects\Internet Blocking Agent\obj\x86\Debug\Internet Blocking Agent.xml
+C:\Users\Owner\AppData\Local\Temporary Projects\Internet Blocking Agent\obj\x86\Debug\Internet Blocking Agent.pdb
+C:\Users\Owner\documents\visual studio 2010\Projects\Internet Blocking Agent\Internet Blocking Agent\obj\x86\Debug\Internet Blocking Agent.exe
+C:\Users\Owner\documents\visual studio 2010\Projects\Internet Blocking Agent\Internet Blocking Agent\obj\x86\Debug\Internet Blocking Agent.xml
+C:\Users\Owner\documents\visual studio 2010\Projects\Internet Blocking Agent\Internet Blocking Agent\obj\x86\Debug\Internet Blocking Agent.pdb
+C:\Users\Owner\documents\visual studio 2010\Projects\Internet Blocking Agent\Internet Blocking Agent\bin\Debug\Internet Blocking Agent.exe
+C:\Users\Owner\documents\visual studio 2010\Projects\Internet Blocking Agent\Internet Blocking Agent\bin\Debug\Internet Blocking Agent.pdb
+C:\Users\Owner\documents\visual studio 2010\Projects\Internet Blocking Agent\Internet Blocking Agent\bin\Debug\Internet Blocking Agent.xml
+C:\Users\Owner\documents\visual studio 2010\Projects\Internet Blocking Agent\Internet Blocking Agent\obj\x86\Debug\Internet_Blocking_Agent.About.resources
+C:\Users\Owner\documents\visual studio 2010\Projects\Internet Blocking Agent\Internet Blocking Agent\obj\x86\Debug\Internet_Blocking_Agent.Form1.resources
+C:\Users\Owner\documents\visual studio 2010\Projects\Internet Blocking Agent\Internet Blocking Agent\obj\x86\Debug\Internet_Blocking_Agent.Resources.resources
+C:\Users\Owner\documents\visual studio 2010\Projects\Internet Blocking Agent\Internet Blocking Agent\obj\x86\Debug\Internet_Blocking_Agent.extrahelp.resources
+C:\Users\Owner\documents\visual studio 2010\Projects\Internet Blocking Agent\Internet Blocking Agent\obj\x86\Debug\Internet_Blocking_Agent.hostscontent.resources
+C:\Users\Owner\documents\visual studio 2010\Projects\Internet Blocking Agent\Internet Blocking Agent\obj\x86\Debug\Internet_Blocking_Agent.Reader_Help.resources
+C:\Users\Owner\documents\visual studio 2010\Projects\Internet Blocking Agent\Internet Blocking Agent\obj\x86\Debug\Internet_Blocking_Agent.Loginform.resources
+C:\Users\Owner\documents\visual studio 2010\Projects\Internet Blocking Agent\Internet Blocking Agent\bin\Debug\Internet Blocking Agent.exe.config
+C:\Users\Owner\documents\visual studio 2010\Projects\Internet Blocking Agent\Internet Blocking Agent\obj\x86\Debug\Internet_Blocking_Agent.settings.resources
+C:\Users\Owner\documents\visual studio 2010\Projects\Internet Blocking Agent\Internet Blocking Agent\obj\x86\Debug\Internet Blocking Agent.TrustInfo.xml
+C:\Users\Owner\documents\visual studio 2010\Projects\Internet Blocking Agent\Internet Blocking Agent\obj\x86\Debug\Internet Blocking Agent.exe.manifest
+C:\Users\Owner\documents\visual studio 2010\Projects\Internet Blocking Agent\Internet Blocking Agent\bin\Debug\Internet Blocking Agent.exe.manifest
+C:\Users\Owner\documents\visual studio 2010\Projects\Internet Blocking Agent\Internet Blocking Agent\bin\Debug\Internet Blocking Agent.application
+C:\Users\Owner\documents\visual studio 2010\Projects\Internet Blocking Agent\Internet Blocking Agent\obj\x86\Debug\Internet Blocking Agent.application
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\Internet Blocking Agent\Internet Blocking Agent\obj\x86\Debug\Internet_Blocking_Agent.passwords.resources
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\Internet Blocking Agent\Internet Blocking Agent\obj\x86\Debug\Internet Blocking Agent.vbproj.GenerateResource.Cache
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\Internet Blocking Agent\Internet Blocking Agent\obj\x86\Debug\Internet_Blocking_Agent.aboutpage.resources

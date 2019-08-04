@@ -1,0 +1,12 @@
+C:\Users\Owner\AppData\Local\Temporary Projects\RedditReader2\bin\Debug\RedditReader2.exe
+C:\Users\Owner\AppData\Local\Temporary Projects\RedditReader2\bin\Debug\RedditReader2.pdb
+C:\Users\Owner\AppData\Local\Temporary Projects\RedditReader2\bin\Debug\RedditReader2.xml
+C:\Users\Owner\AppData\Local\Temporary Projects\RedditReader2\obj\x86\Debug\RedditReader2.Form1.resources
+C:\Users\Owner\AppData\Local\Temporary Projects\RedditReader2\obj\x86\Debug\RedditReader2.Resources.resources
+C:\Users\Owner\AppData\Local\Temporary Projects\RedditReader2\obj\x86\Debug\RedditReader2.vbproj.GenerateResource.Cache
+C:\Users\Owner\AppData\Local\Temporary Projects\RedditReader2\obj\x86\Debug\RedditReader2.exe
+C:\Users\Owner\AppData\Local\Temporary Projects\RedditReader2\obj\x86\Debug\RedditReader2.xml
+C:\Users\Owner\AppData\Local\Temporary Projects\RedditReader2\obj\x86\Debug\RedditReader2.pdb
+C:\Users\Owner\documents\visual studio 2010\Projects\RedditReader2\RedditReader2\obj\x86\Debug\RedditReader2.exe
+C:\Users\Owner\documents\visual studio 2010\Projects\RedditReader2\RedditReader2\obj\x86\Debug\RedditReader2.xml
+C:\Users\Owner\documents\visual studio 2010\Projects\RedditReader2\RedditReader2\obj\x86\Debug\RedditReader2.pdb

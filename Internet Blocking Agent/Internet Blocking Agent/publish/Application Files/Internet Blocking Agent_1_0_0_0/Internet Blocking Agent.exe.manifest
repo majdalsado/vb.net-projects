@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity version="1.0.0.0" name="Internet Blocking Agent.exe" publicKeyToken="0e67fa91d52b9ced" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="LogoIBA.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Internet Blocking Agent" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="Internet Blocking Agent.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet version="1" class="System.Security.NamedPermissionSet" Name="LocalIntranet" Description="Default rights given to applications on the local intranet" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel node will disable file and registry virtualization.
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Internet Blocking Agent.exe" size="1825280">
+      <assemblyIdentity name="Internet Blocking Agent" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>t3PFa7+5bF+9A4CulY3aV0OpFeQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Internet Blocking Agent.exe.config" size="2209">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>RqU5cxwlWkT3ir8Zs8mQfGfKi/c=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="LogoIBA.ico" size="370070">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>8D6952Q+k+oLJyPhPJRR813F2hM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of all Windows versions that this application is designed to work with. Windows will automatically select the most compatible environment.-->
+      <!-- If your application is designed to work with Windows 7, uncomment the following supportedOS node-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=Owner-PC\Owner" issuerKeyHash="ebd47d7d8ee68b01b1816b34b3382bb7aa8ad197" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>n2vPeug2J/msRK5HSsOi9gXTpjI=</DigestValue></Reference></SignedInfo><SignatureValue>IHDHlfLkWwj3LG32scsihUw7rsD4UiwIZ05cH7fpv6yoQeY6Jx87oLW70I9u3dTQDSS/giC8IDXwPmb50CrUm3B8LpIZR+GyXJIZ/mJCvqJFXec5SrU8iuHGvSnBrqRpJphICjwiD5z52inmCurp0Kg2EDsMv0nmcOmQSB3jMRw=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>pWjXQ+YVmGC0UltZOs2C2fJzHNnar21drT4lztUy15CKZQmP+uAyVhUR9LX7PISnZndp8S3Gh1nQQVIRL6yq6Vbq1DKvgrwi9PzNw0bgjwrSigOy6AiwVOPMCJagROTodbBX5EVqepWpRVhJibkDDPqUO+FCYSzfzEsUrOv3AZU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="32a6d305f6a2c34a47ae44acf92736e87acf6b9f" Description="" Url=""><as:assemblyIdentity version="1.0.0.0" name="Internet Blocking Agent.exe" publicKeyToken="0e67fa91d52b9ced" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Owner-PC\Owner</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>OgeGMtRRofw5z3B33zS36oj13zQ=</DigestValue></Reference></SignedInfo><SignatureValue>FSGdAD8tL02jQmnKoH2BCREB9aLgntmWKFc/KxrLUuWRUjNM0mPTCaWDcKUybtUhR+jSLWn+GYb3qu6Hw/TU1HBKzxM0yxX/qOQhVVMfjX6mtIgRNzFhT4xZeoe3sO3OUkIuNfiUgbUxBR1jCW6Oyhes1FdtcTG7jvKyTKZ53WE=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>pWjXQ+YVmGC0UltZOs2C2fJzHNnar21drT4lztUy15CKZQmP+uAyVhUR9LX7PISnZndp8S3Gh1nQQVIRL6yq6Vbq1DKvgrwi9PzNw0bgjwrSigOy6AiwVOPMCJagROTodbBX5EVqepWpRVhJibkDDPqUO+FCYSzfzEsUrOv3AZU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB0TCCATqgAwIBAgIQHRA3gxQMaYtEWuZhRCM26TANBgkqhkiG9w0BAQUFADAnMSUwIwYDVQQDHhwATwB3AG4AZQByAC0AUABDAFwATwB3AG4AZQByMB4XDTEyMDkwOTAyNDk1MloXDTEzMDkwOTA4NDk1MlowJzElMCMGA1UEAx4cAE8AdwBuAGUAcgAtAFAAQwBcAE8AdwBuAGUAcjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEApWjXQ+YVmGC0UltZOs2C2fJzHNnar21drT4lztUy15CKZQmP+uAyVhUR9LX7PISnZndp8S3Gh1nQQVIRL6yq6Vbq1DKvgrwi9PzNw0bgjwrSigOy6AiwVOPMCJagROTodbBX5EVqepWpRVhJibkDDPqUO+FCYSzfzEsUrOv3AZUCAwEAATANBgkqhkiG9w0BAQUFAAOBgQCBiOkVCkdulDx32TmoSJ8ykgsbkz3raHsnpx3LSHTPmxKiIO0mgdPvTX/PBSMkEAmLrjs8BFja+6oB8pX2Xgby5DE9AmH3E6VvlhL+3q3LyhgY1+3O0CNkYd3h4UvKspdxR8/avcdSnxQ9ae2RtyxK5XUcLVleH25+aI85Q1HiWA==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

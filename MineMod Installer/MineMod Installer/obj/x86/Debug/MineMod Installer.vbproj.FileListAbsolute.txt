@@ -1,0 +1,20 @@
+C:\Users\Owner\AppData\Local\Temporary Projects\MineMod Installer\bin\Debug\MineMod Installer.exe
+C:\Users\Owner\AppData\Local\Temporary Projects\MineMod Installer\bin\Debug\MineMod Installer.pdb
+C:\Users\Owner\AppData\Local\Temporary Projects\MineMod Installer\bin\Debug\MineMod Installer.xml
+C:\Users\Owner\AppData\Local\Temporary Projects\MineMod Installer\obj\x86\Debug\MineMod_Installer.Form1.resources
+C:\Users\Owner\AppData\Local\Temporary Projects\MineMod Installer\obj\x86\Debug\MineMod_Installer.Resources.resources
+C:\Users\Owner\AppData\Local\Temporary Projects\MineMod Installer\obj\x86\Debug\MineMod Installer.vbproj.GenerateResource.Cache
+C:\Users\Owner\AppData\Local\Temporary Projects\MineMod Installer\obj\x86\Debug\MineMod Installer.exe
+C:\Users\Owner\AppData\Local\Temporary Projects\MineMod Installer\obj\x86\Debug\MineMod Installer.xml
+C:\Users\Owner\AppData\Local\Temporary Projects\MineMod Installer\obj\x86\Debug\MineMod Installer.pdb
+C:\Users\Owner\documents\visual studio 2010\Projects\MineMod Installer\MineMod Installer\obj\x86\Debug\MineMod Installer.exe
+C:\Users\Owner\documents\visual studio 2010\Projects\MineMod Installer\MineMod Installer\obj\x86\Debug\MineMod Installer.xml
+C:\Users\Owner\documents\visual studio 2010\Projects\MineMod Installer\MineMod Installer\obj\x86\Debug\MineMod Installer.pdb
+C:\Users\Owner\documents\visual studio 2010\Projects\MineMod Installer\MineMod Installer\obj\x86\Debug\MineMod Installer.vbprojResolveAssemblyReference.cache
+C:\Users\Owner\documents\visual studio 2010\Projects\MineMod Installer\MineMod Installer\obj\x86\Debug\MineMod_Installer.Form1.resources
+C:\Users\Owner\documents\visual studio 2010\Projects\MineMod Installer\MineMod Installer\obj\x86\Debug\MineMod_Installer.Resources.resources
+C:\Users\Owner\documents\visual studio 2010\Projects\MineMod Installer\MineMod Installer\obj\x86\Debug\MineMod Installer.vbproj.GenerateResource.Cache
+C:\Users\Owner\documents\visual studio 2010\Projects\MineMod Installer\MineMod Installer\bin\Debug\MineMod Installer.exe
+C:\Users\Owner\documents\visual studio 2010\Projects\MineMod Installer\MineMod Installer\bin\Debug\MineMod Installer.pdb
+C:\Users\Owner\documents\visual studio 2010\Projects\MineMod Installer\MineMod Installer\bin\Debug\MineMod Installer.xml
+C:\Users\Owner\documents\visual studio 2010\Projects\MineMod Installer\MineMod Installer\bin\Debug\Ionic.Zip.dll

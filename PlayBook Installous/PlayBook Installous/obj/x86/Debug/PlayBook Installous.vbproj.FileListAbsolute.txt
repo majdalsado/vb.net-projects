@@ -1,0 +1,18 @@
+C:\Users\Owner\documents\visual studio 2010\Projects\PlayBook Installous\PlayBook Installous\bin\Debug\PlayBook Installous.exe
+C:\Users\Owner\documents\visual studio 2010\Projects\PlayBook Installous\PlayBook Installous\bin\Debug\PlayBook Installous.pdb
+C:\Users\Owner\documents\visual studio 2010\Projects\PlayBook Installous\PlayBook Installous\bin\Debug\PlayBook Installous.xml
+C:\Users\Owner\documents\visual studio 2010\Projects\PlayBook Installous\PlayBook Installous\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\documents\visual studio 2010\Projects\PlayBook Installous\PlayBook Installous\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Owner\documents\visual studio 2010\Projects\PlayBook Installous\PlayBook Installous\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Owner\documents\visual studio 2010\Projects\PlayBook Installous\PlayBook Installous\obj\x86\Debug\PlayBook Installous.exe
+C:\Users\Owner\documents\visual studio 2010\Projects\PlayBook Installous\PlayBook Installous\obj\x86\Debug\PlayBook Installous.xml
+C:\Users\Owner\documents\visual studio 2010\Projects\PlayBook Installous\PlayBook Installous\obj\x86\Debug\PlayBook Installous.pdb
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\PlayBook Installous\PlayBook Installous\obj\x86\Debug\tk.playbookassister.PBInstallous.AboutBox1.resources
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\PlayBook Installous\PlayBook Installous\obj\x86\Debug\tk.playbookassister.PBInstallous.Form1.resources
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\PlayBook Installous\PlayBook Installous\obj\x86\Debug\tk.playbookassister.PBInstallous.Form2.resources
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\PlayBook Installous\PlayBook Installous\obj\x86\Debug\tk.playbookassister.PBInstallous.Resources.resources
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\PlayBook Installous\PlayBook Installous\obj\x86\Debug\PlayBook Installous.TrustInfo.xml
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\PlayBook Installous\PlayBook Installous\obj\x86\Debug\PlayBook Installous.exe.manifest
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\PlayBook Installous\PlayBook Installous\bin\Debug\PlayBook Installous.exe.manifest
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\PlayBook Installous\PlayBook Installous\bin\Debug\PlayBook Installous.application
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\PlayBook Installous\PlayBook Installous\obj\x86\Debug\PlayBook Installous.application

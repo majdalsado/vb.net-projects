@@ -1,0 +1,11 @@
+C:\Users\Owner\documents\visual studio 2010\Projects\Explorer Marks\Explorer Marks\bin\Debug\Explorer Marks.exe.config
+C:\Users\Owner\documents\visual studio 2010\Projects\Explorer Marks\Explorer Marks\bin\Debug\Explorer Marks.exe
+C:\Users\Owner\documents\visual studio 2010\Projects\Explorer Marks\Explorer Marks\bin\Debug\Explorer Marks.pdb
+C:\Users\Owner\documents\visual studio 2010\Projects\Explorer Marks\Explorer Marks\bin\Debug\Explorer Marks.xml
+C:\Users\Owner\documents\visual studio 2010\Projects\Explorer Marks\Explorer Marks\obj\x86\Debug\Main_Bookmarks.addnew.resources
+C:\Users\Owner\documents\visual studio 2010\Projects\Explorer Marks\Explorer Marks\obj\x86\Debug\Main_Bookmarks.Form1.resources
+C:\Users\Owner\documents\visual studio 2010\Projects\Explorer Marks\Explorer Marks\obj\x86\Debug\Main_Bookmarks.Resources.resources
+C:\Users\Owner\documents\visual studio 2010\Projects\Explorer Marks\Explorer Marks\obj\x86\Debug\Explorer Marks.vbproj.GenerateResource.Cache
+C:\Users\Owner\documents\visual studio 2010\Projects\Explorer Marks\Explorer Marks\obj\x86\Debug\Explorer Marks.exe
+C:\Users\Owner\documents\visual studio 2010\Projects\Explorer Marks\Explorer Marks\obj\x86\Debug\Explorer Marks.xml
+C:\Users\Owner\documents\visual studio 2010\Projects\Explorer Marks\Explorer Marks\obj\x86\Debug\Explorer Marks.pdb
