@@ -1,0 +1,12 @@
+C:\Users\Majd\Documents\Visual Studio 2012\Projects\Communications\Communications\bin\Release\Communications.exe.config
+C:\Users\Majd\Documents\Visual Studio 2012\Projects\Communications\Communications\bin\Release\Communications.exe
+C:\Users\Majd\Documents\Visual Studio 2012\Projects\Communications\Communications\bin\Release\Communications.pdb
+C:\Users\Majd\Documents\Visual Studio 2012\Projects\Communications\Communications\bin\Release\Communications.xml
+C:\Users\Majd\Documents\Visual Studio 2012\Projects\Communications\Communications\obj\Release\Communications.clientside.resources
+C:\Users\Majd\Documents\Visual Studio 2012\Projects\Communications\Communications\obj\Release\Communications.Form1.resources
+C:\Users\Majd\Documents\Visual Studio 2012\Projects\Communications\Communications\obj\Release\Communications.Resources.resources
+C:\Users\Majd\Documents\Visual Studio 2012\Projects\Communications\Communications\obj\Release\Communications.serverside.resources
+C:\Users\Majd\Documents\Visual Studio 2012\Projects\Communications\Communications\obj\Release\Communications.vbproj.GenerateResource.Cache
+C:\Users\Majd\Documents\Visual Studio 2012\Projects\Communications\Communications\obj\Release\Communications.exe
+C:\Users\Majd\Documents\Visual Studio 2012\Projects\Communications\Communications\obj\Release\Communications.xml
+C:\Users\Majd\Documents\Visual Studio 2012\Projects\Communications\Communications\obj\Release\Communications.pdb

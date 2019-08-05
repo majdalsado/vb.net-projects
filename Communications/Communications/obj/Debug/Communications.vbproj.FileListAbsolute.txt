@@ -1,0 +1,17 @@
+c:\users\majd\documents\visual studio 2012\Projects\Communications\Communications\bin\Debug\Communications.exe.config
+c:\users\majd\documents\visual studio 2012\Projects\Communications\Communications\bin\Debug\Communications.exe
+c:\users\majd\documents\visual studio 2012\Projects\Communications\Communications\bin\Debug\Communications.pdb
+c:\users\majd\documents\visual studio 2012\Projects\Communications\Communications\bin\Debug\Communications.xml
+c:\users\majd\documents\visual studio 2012\Projects\Communications\Communications\obj\Debug\Communications.clientside.resources
+c:\users\majd\documents\visual studio 2012\Projects\Communications\Communications\obj\Debug\Communications.Form1.resources
+c:\users\majd\documents\visual studio 2012\Projects\Communications\Communications\obj\Debug\Communications.Resources.resources
+c:\users\majd\documents\visual studio 2012\Projects\Communications\Communications\obj\Debug\Communications.serverside.resources
+c:\users\majd\documents\visual studio 2012\Projects\Communications\Communications\obj\Debug\Communications.vbproj.GenerateResource.Cache
+c:\users\majd\documents\visual studio 2012\Projects\Communications\Communications\obj\Debug\Communications.exe
+c:\users\majd\documents\visual studio 2012\Projects\Communications\Communications\obj\Debug\Communications.xml
+c:\users\majd\documents\visual studio 2012\Projects\Communications\Communications\obj\Debug\Communications.pdb
+C:\Users\Majd\Documents\Visual Studio 2012\Projects\Communications\Communications\obj\Debug\Communications.SendMessage.resources
+C:\Users\majda\Dropbox\BACKUP\Documents\Visual Studio 2012\Projects\Communications\Communications\bin\Debug\Communications.exe.config
+C:\Users\majda\Dropbox\BACKUP\Documents\Visual Studio 2012\Projects\Communications\Communications\obj\Debug\Communications.exe
+C:\Users\majda\Dropbox\BACKUP\Documents\Visual Studio 2012\Projects\Communications\Communications\obj\Debug\Communications.xml
+C:\Users\majda\Dropbox\BACKUP\Documents\Visual Studio 2012\Projects\Communications\Communications\obj\Debug\Communications.pdb
